@@ -16,3 +16,8 @@ ISC
 
 ## Video source
 <iframe src="https://drive.google.com/file/d/1NfKGrvxfBrKUxog_U-fgdtcBEBAJ2Q9x/preview" width="640" height="480"></iframe>
+
+or
+## QR Code to watch Video
+![qr-code](https://user-images.githubusercontent.com/98847835/173201459-38e4aaea-eb5e-4f5c-8896-5659db438d17.png)
+
